@@ -1,6 +1,6 @@
 # Hi, I'm Alem 👋
 
-Senior Software Engineer transitioning into Artificial Intelligence and Machine Learning.
+Senior Software Engineer | Artificial Intelligence | Machine Learning | LLMs | RAG
 
 ## Focus Areas
 
