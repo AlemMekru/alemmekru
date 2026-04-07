@@ -1,6 +1,14 @@
-# Hi, I'm Alem
+# Hi, I'm Alem 👋
 
 Senior Software Engineer transitioning into Artificial Intelligence and Machine Learning.
+
+## GitHub Stats
+
+![Alem's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemmekru&show_icons=true&theme=default)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemmekru&layout=compact)
 
 ## Focus Areas
 
