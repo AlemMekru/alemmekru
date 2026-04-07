@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Alem
 
-<!--
-**AlemMekru/alemmekru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer transitioning into Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+## Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Deep Learning
+- NLP
+
+## AI Projects
+
+### NASA RAG System
+Retrieval-Augmented Generation system for answering questions about NASA mission transcripts.
+
+https://github.com/alemmekru/nasa-rag-system
+
+## Portfolio
+
+https://github.com/alemmekru/ai-portfolio
