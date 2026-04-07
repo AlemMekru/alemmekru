@@ -10,11 +10,12 @@ Senior Software Engineer transitioning into Artificial Intelligence and Machine 
 - Deep Learning
 - NLP
 
-## AI Projects
+## Featured Project
 
 ### NASA RAG System
 Retrieval-Augmented Generation system for answering questions about NASA mission transcripts.
 
+Repository:
 https://github.com/alemmekru/nasa-rag-system
 
 ## Portfolio
