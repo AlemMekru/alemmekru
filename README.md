@@ -4,11 +4,11 @@ Senior Software Engineer transitioning into Artificial Intelligence and Machine 
 
 ## GitHub Stats
 
-![Alem's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemmekru&show_icons=true&theme=default)
+![Alem's GitHub stats](https://github-readme-stats.vercel.app/api?username=alemmekru&show_icons=true&count_private=true)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemmekru&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemmekru&layout=compact&langs_count=8)
 
 ## Focus Areas
 
