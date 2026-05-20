@@ -29,6 +29,10 @@ Key areas:
 - Explainable AI concepts
 - NLP and intelligent scoring systems
 
+Repository:
+https://github.com/AlemMekru/Project7_Integrative_Industry_Synthesis
+
+
 ---
 
 ### NASA RAG System
