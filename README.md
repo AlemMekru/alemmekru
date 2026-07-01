@@ -51,7 +51,8 @@ A tiny decoder-only Transformer language model built entirely from scratch using
 - Demonstrate end-to-end language model engineering.
 
 🔗 Repository:  
-https://github.com/alemmekru/CanGovLM
+https://github.com/AlemMekru/CanGovLM
+
 ---
 
 ### NASA RAG System
