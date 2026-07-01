@@ -38,6 +38,22 @@ https://github.com/AlemMekru/Project7_Integrative_Industry_Synthesis
 
 ---
 
+### CanGovLM
+
+A tiny decoder-only Transformer language model built entirely from scratch using official Canadian government data.
+
+#### Highlights
+
+- Build a language model completely from scratch.
+- Train exclusively on official Canadian government data.
+- Support English first, followed by bilingual English/French.
+- Maintain a transparent and reproducible training pipeline.
+- Demonstrate end-to-end language model engineering.
+
+🔗 Repository:  
+https://github.com/alemmekru/CanGovLM
+---
+
 ### NASA RAG System
 
 Retrieval-Augmented Generation (RAG) system for querying NASA mission transcripts using semantic search and large language models.
