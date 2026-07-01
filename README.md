@@ -114,10 +114,13 @@ https://github.com/alemmekru/nasa-rag-system
 
 ---
 
-## Connect
+## 📫 Connect
 
+- Email: azmekru@gmail.com
 - LinkedIn: https://www.linkedin.com/in/alemmekru/
 - GitHub: https://github.com/AlemMekru
+
+💼 Open to AI Engineer, Machine Learning Engineer, and Applied AI opportunities.
 
 ---
 
