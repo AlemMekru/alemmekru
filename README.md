@@ -116,11 +116,12 @@ https://github.com/alemmekru/nasa-rag-system
 
 ## 📫 Connect
 
-- Email: azmekru@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alemmekru/
-- GitHub: https://github.com/AlemMekru
+- 📍 Vancouver, BC, Canada
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/alemmekru/
+- 💻 GitHub: https://github.com/AlemMekru
 
-💼 Open to AI Engineer, Machine Learning Engineer, and Applied AI opportunities.
+**Open to:** AI Engineer • Machine Learning Engineer • Applied AI • LLM Engineer opportunities
 
 ---
 
