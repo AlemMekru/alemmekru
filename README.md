@@ -117,7 +117,7 @@ https://github.com/alemmekru/nasa-rag-system
 ## 📫 Connect
 
 - 📍 Vancouver, BC, Canada
-- 📧 Email: your.email@example.com
+- 📧 Email: azmekru@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/alemmekru/
 - 💻 GitHub: https://github.com/AlemMekru
 
