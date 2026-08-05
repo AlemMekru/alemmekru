@@ -1,21 +1,26 @@
 # Hi, I'm Alem Mekru 👋
 
-**MSc Artificial Intelligence | Senior Software Engineer | AI & Machine Learning Practitioner**
+**PhD Researcher in Applied AI | MSc in AI | Senior Software Engineer**
 
-Over 20 years of experience designing and building enterprise software solutions, with recent specialization in Artificial Intelligence, Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Explainable AI.
+**Machine Learning • LLMs • RAG Systems • Explainable AI**
+
+I am a senior software engineer and applied AI researcher with 20 years of experience designing and building enterprise software systems. My current work focuses on machine learning, large language models, retrieval-augmented generation, explainable AI, and decision-support systems.
+
+I am particularly interested in building practical, responsible, and transparent AI systems that connect research with real-world needs.
 
 ---
 
-## Areas of Interest
+## Research and Professional Interests
 
-- Artificial Intelligence
-- Machine Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Natural Language Processing (NLP)
-- Explainable AI (XAI)
-- AI Decision-Support Systems
-- Educational AI
+* Artificial Intelligence and Machine Learning
+* Large Language Models
+* Retrieval-Augmented Generation
+* Natural Language Processing
+* Explainable and Responsible AI
+* AI Decision-Support Systems
+* AI Software Systems
+* Educational Technology and AI
+* Cloud-Based AI Infrastructure
 
 ---
 
@@ -23,106 +28,121 @@ Over 20 years of experience designing and building enterprise software solutions
 
 ### RentShield Canada
 
-AI-powered decision-support platform for the Canadian housing market.
+An AI-powered decision-support platform for the Canadian rental housing market.
 
-#### Highlights
+**Highlights**
 
-- DistilBERT-based rental risk classification
-- Housing stress prediction using machine learning
-- Explainable AI recommendations
-- Canadian rental market analytics
-- Human-in-the-loop decision support
+* DistilBERT-based rental risk classification
+* Housing-stress prediction using machine learning
+* Explainable recommendations
+* Canadian rental-market analysis
+* Human-in-the-loop decision support
 
-🔗 Repository:  
-https://github.com/AlemMekru/Project7_Integrative_Industry_Synthesis
+[View repository](https://github.com/AlemMekru/Project7_Integrative_Industry_Synthesis)
 
 ---
 
 ### CanGovLM
 
-A tiny decoder-only Transformer language model built entirely from scratch using official Canadian government data.
+A decoder-only Transformer language model developed from scratch using official Canadian government data.
 
-#### Highlights
+**Highlights**
 
-- Build a language model completely from scratch.
-- Train exclusively on official Canadian government data.
-- Support English first, followed by bilingual English/French.
-- Maintain a transparent and reproducible training pipeline.
-- Demonstrate end-to-end language model engineering.
+* Custom language-model architecture and training pipeline
+* Byte-level BPE tokenization
+* Training corpus based on official Canadian government data
+* Transparent and reproducible development process
+* Planned bilingual English and French support
+* End-to-end language-model engineering
 
-🔗 Repository:  
-https://github.com/AlemMekru/CanGovLM
+[View repository](https://github.com/AlemMekru/CanGovLM)
 
 ---
 
 ### NASA RAG System
 
-Retrieval-Augmented Generation (RAG) system for querying NASA mission transcripts using semantic search and large language models.
+A retrieval-augmented generation system for querying NASA mission transcripts using semantic search and large language models.
 
-#### Highlights
+**Highlights**
 
-- Vector search
-- Context retrieval
-- LLM-powered question answering
-- AI knowledge systems
+* Semantic search and vector retrieval
+* Context-aware document retrieval
+* LLM-powered question answering
+* Knowledge-grounded responses
+* Practical RAG architecture
 
-🔗 Repository:  
-https://github.com/alemmekru/nasa-rag-system
-
----
-
-## Portfolio
-
-🔗 https://github.com/alemmekru/ai-portfolio
+[View repository](https://github.com/AlemMekru/nasa-rag-system)
 
 ---
 
 ## Technical Skills
 
-**Languages**
-- C#
-- Python
-- JavaScript
-- SQL
+### AI and Machine Learning
 
-**AI & Machine Learning**
-- PyTorch
-- Scikit-learn
-- Transformers
-- DistilBERT
-- RAG Systems
-- Prompt Engineering
+* Python, PyTorch and Scikit-learn
+* Transformers and DistilBERT
+* Large Language Models
+* Retrieval-Augmented Generation
+* Natural Language Processing
+* Explainable AI
+* Prompt engineering and evaluation
 
-**Web & Cloud**
-- ASP.NET
-- React
-- Next.js
-- Azure OpenAI
-- REST APIs
+### Software Engineering
 
-**Databases**
-- Microsoft SQL Server
-- MongoDB
+* C#, Python, JavaScript and SQL
+* ASP.NET, React and Next.js
+* REST API design and integration
+* Enterprise application architecture
+* Software analysis, design and documentation
+
+### Cloud and Data
+
+* Azure OpenAI
+* Microsoft SQL Server
+* MongoDB
+* Cloud-based AI services
+
+---
+
+## Teaching and Mentorship
+
+My background includes classroom teaching, technical training, and supervising students involved in applied software projects. I am interested in helping students connect computing theory with practical work in AI, machine learning, software systems, and responsible technology.
 
 ---
 
 ## Education
 
-### Master of Science (MSc) in Artificial Intelligence
+### PhD Researcher in Applied Artificial Intelligence
 
-### Bachelor of Science (BSc) in Computer Science
+Research interests include explainable AI, decision-support systems, responsible AI, and digital public services.
 
----
+### Master of Science in Artificial Intelligence
 
-## 📫 Connect
+### Bachelor of Science in Computer Science
 
-- 📍 Vancouver, BC, Canada
-- 📧 Email: azmekru@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/alemmekru/
-- 💻 GitHub: https://github.com/AlemMekru
+### Diploma in Computer Engineering
 
-**Open to:** AI Engineer • Machine Learning Engineer • Applied AI • LLM Engineer opportunities
+President’s Honour List, Niagara College Canada
 
 ---
 
-> Building practical AI systems that bridge research and real-world impact.
+## Portfolio
+
+Explore my additional AI and software-engineering work:
+
+[AI Project Portfolio](https://github.com/AlemMekru/ai-portfolio)
+
+---
+
+## Connect
+
+* Burnaby, British Columbia, Canada
+* [Email](mailto:azmekru@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/alemmekru/)
+* [GitHub](https://github.com/AlemMekru)
+
+**Open to opportunities in:** AI engineering, applied AI research, machine learning, LLM systems, software engineering, and post-secondary AI education.
+
+---
+
+> Building practical AI systems that connect research, engineering, and real-world impact.
